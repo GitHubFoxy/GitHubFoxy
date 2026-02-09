@@ -30,11 +30,6 @@
 
 - 📝 **[AI & Engineering Blog](https://astro-blog-indol-five.vercel.app)** - Thoughts on agents, coding, and the future
 
-<!-- BLOG-POST-LIST:START -->
-- [My Second Post](https://astro-blog-indol-five.vercel.app/posts/post2/)
-- [My First Post](https://astro-blog-indol-five.vercel.app/posts/post1/)
-<!-- BLOG-POST-LIST:END -->
-
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@mishacoding-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mishacoding)
