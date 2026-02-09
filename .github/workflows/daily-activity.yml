@@ -1,0 +1,36 @@
+name: Daily Activity
+
+on:
+  schedule:
+    - cron: "0 6 * * *"  # Runs at 6 AM UTC daily
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  daily-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Update Activity Log
+        run: |
+          DATE=$(date '+%Y-%m-%d')
+          TIME=$(date '+%H:%M:%S UTC')
+          
+          # Create activity log entry
+          echo "## $DATE - $TIME" >> ACTIVITY.md
+          echo "- Daily check-in via GitHub Actions" >> ACTIVITY.md
+          echo "" >> ACTIVITY.md
+          
+          # Keep file from growing too large (keep last 365 entries)
+          tail -n 1000 ACTIVITY.md > ACTIVITY.md.tmp && mv ACTIVITY.md.tmp ACTIVITY.md
+          
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ACTIVITY.md
+          git commit -m "Daily activity: $(date '+%Y-%m-%d')" || echo "No changes to commit"
+          git push
