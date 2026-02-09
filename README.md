@@ -41,7 +41,7 @@
 
 ### My Current Agentic Status
 
-- **What model am i using?** Check at []()
+- **What model am i using?** Check at [My First Post](https://astro-blog-indol-five.vercel.app/posts/post1/)
 
 ### Philosophy
 
