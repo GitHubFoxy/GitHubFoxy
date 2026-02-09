@@ -28,15 +28,17 @@
 
 ## Latest Blog Posts
 
+- 📝 **[AI & Engineering Blog](https://astro-blog-indol-five.vercel.app)** - Thoughts on agents, coding, and the future
+
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Anonymous](https://steipete.me/posts/2025/claude-code-anonymous)
-- [Live Coding Session: Building Arena](https://steipete.me/posts/2025/live-coding-session-building-arena)
+- [My Second Post](https://astro-blog-indol-five.vercel.app/posts/post2/)
+- [My First Post](https://astro-blog-indol-five.vercel.app/posts/post1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@mishacoding-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mishacoding)
-[![Blog]()]()
+[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://astro-blog-indol-five.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-Mikhail-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-tretyakov-0abb083ab)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GitHubFoxy)
 
