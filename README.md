@@ -14,7 +14,7 @@
 
 ## Current Projects
 
-- 🌡️ **[Klimat22](https://klimat22.com)** - e-commerce website built solo by me 
+- 🌡️ **[Klimat22](https://klimat22.com)** - e-commerce website built solo by me from scratch (contract)
 
 
 ## GitHub Activity
