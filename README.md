@@ -1,4 +1,4 @@
-# Mikhail Tretyakov
+# Michael Tretyakov
 
 📍 Remote | 🤖 Software engineer
 
