@@ -1,49 +1,23 @@
-# Michael Tretyakov
+# Михаил Третьяков
 
-📍 Remote | 🤖 Software engineer
+Backend / Fullstack-разработчик. Пишу на **Go и TypeScript**, ищу работу разработчиком.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+Разработал интернет-магазин Климат22 по договору: каталог, корзину, оформление заявок, серверную валидацию, роли и кабинет менеджеров. Развернул frontend и backend на VPS.
 
-> Using AI agents to its maximum, while keeping an eye on the actual code quality. Still can do manual typing
+## Проекты
 
+- **[Secretary](https://github.com/GitHubFoxy/secretary)** — персональный ассистент на Go с постоянной перепиской и делегированием задач Workers. SQLite, HTTP API, WebSocket, MCP, ACP; веб-интерфейс на Svelte.
+- **[Климат22](https://omarchy.tail089ef.ts.net:9443/)** — демо интернет-магазина на TypeScript, React, Next.js и Convex. Доступ через Tailscale владельца. Магазин прекратил работу; в демо тестовые данные. [Код, скриншоты и видео](https://github.com/GitHubFoxy/Klimat22).
+- **[Evercode backend](https://github.com/GitHubFoxy/evercode-fast-track-test-backend)** — REST API на Node.js, Express 5 и TypeScript: SQLite и raw SQL, Jest/Supertest, OpenAPI/Swagger, Docker Compose и фоновое обновление цен CoinMarketCap.
+- **[Pi Observational Memory](https://github.com/GitHubFoxy/pi-observational-memory)** — open-source расширение памяти для coding-агента Pi на TypeScript.
 
+## Стек
 
-## Current Projects
+Go, TypeScript, JavaScript, Node.js, Express, React, Next.js, Convex, SQLite, SQL, REST API, WebSocket, MCP, Docker, Linux, Git, PM2, Caddy.
 
-- 🌡️ **[Klimat22](https://klimat22.com)** - e-commerce website built solo by me from scratch (contract)
+## Контакты
 
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/GitHubFoxy)
-
-## What I'm Doing
-
-- **Living in the future** - Learning and building tools to make agentic engineering faster and better
-- **Rapid prototyping** - Full apps in days, not months
-
-## Latest Blog Posts
-
-- 📝 **[AI & Engineering Blog](https://astro-blog-indol-five.vercel.app)** - Thoughts on agents, coding, and the future
-
-## Connect
-
-[![Twitter](https://img.shields.io/badge/-@mishacoding-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mishacoding)
-[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://astro-blog-indol-five.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-Mikhail-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-tretyakov-0abb083ab)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GitHubFoxy)
-
----
-
-### My Current Agentic Status
-
-- **What model am i using?** Check at [Current AI](https://astro-blog-indol-five.vercel.app/posts/post2/)
-
-### Philosophy
-
-> Iterating is much faster than planning, ship beats perfect.
-
+- Telegram: [@beruseruko](https://t.me/beruseruko)
+- Email: [michael.tretyakov.work@proton.me](mailto:michael.tretyakov.work@proton.me)
+- [Twitter / X](https://twitter.com/mishacoding)
+- [Блог](https://astro-blog-indol-five.vercel.app)
