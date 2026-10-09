@@ -6,9 +6,9 @@ Backend / Fullstack-разработчик. Пишу на **Go и TypeScript**, 
 
 ## Проекты
 
-- **[Secretary](https://github.com/GitHubFoxy/secretary)** — персональный ассистент на Go с постоянной перепиской и делегированием задач Workers. SQLite, HTTP API, WebSocket, MCP, ACP; веб-интерфейс на Svelte.
+- **[Secretary](https://github.com/GitHubFoxy/secretary)** — персональный ассистент на Go с постоянной перепиской и делегированием задач Workers. SQLite, HTTP API, WebSocket, MCP, ACP; веб-интерфейс на Svelte. 
 - **[Климат22](https://omarchy.tail089ef.ts.net:9443/)** — демо интернет-магазина на TypeScript, React, Next.js и Convex. Доступ через Tailscale владельца. Магазин прекратил работу; в демо тестовые данные. [Код, скриншоты и видео](https://github.com/GitHubFoxy/Klimat22).
-- **[Evercode backend](https://github.com/GitHubFoxy/evercode-fast-track-test-backend)** — REST API на Node.js, Express 5 и TypeScript: SQLite и raw SQL, Jest/Supertest, OpenAPI/Swagger, Docker Compose и фоновое обновление цен CoinMarketCap.
+- **[Evercode backend](https://github.com/GitHubFoxy/evercode-fast-track-test-backend)** — REST API на Node.js, Express 5 и TypeScript: SQLite и raw SQL, Jest/Supertest, OpenAPI/Swagger, Docker Compose и фоновое обновление цен CoinMarketCap. Тестовое задание
 - **[Pi Observational Memory](https://github.com/GitHubFoxy/pi-observational-memory)** — open-source расширение памяти для coding-агента Pi на TypeScript.
 
 ## Стек
